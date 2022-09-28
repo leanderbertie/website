@@ -1,0 +1,103 @@
+
+.black{
+			width: 500px;
+			height: 750px;
+			background-color: black;
+		}
+		.white{
+			position: absolute;
+            top: 2px;
+			width: 200px;
+			height: 50px;
+		}
+        #parent{
+            position: relative;
+        }
+        img.a{
+            position: absolute;
+            
+            width:220%;
+            margin-left: 140%;
+            margin-top: 100%;
+           
+
+        }
+
+        img.b{
+            position: absolute;
+            
+            width:150%;
+            margin-left: 150%;
+            margin-top: 90%;
+            
+           
+
+        }
+        .vl {
+            border-left: 3px solid black;
+           
+            height: 100px;
+            position:absolute;
+            top: 500%;
+            left: 400%;
+        }
+        dt.lea{
+            margin-left: 5%;
+            font-weight: bold;
+            font-size: 200%;
+            font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            
+           
+        }
+    dd.and{
+            
+            margin-left: 5%;
+            font-weight: bold;
+            font-size: 150%;
+            font-family:sans-serif;
+            
+           
+        }
+    img.c{
+        position: absolute;
+          width: 30px;
+          height: 30px;
+        margin-left:415%;
+        margin-top:180%;
+        border: radius 20px; 
+    }
+    
+    img.d{
+       
+            position: absolute;
+            width: 34px;
+            height: 35px;
+            margin-left:440%;
+            margin-top: 179%;
+            border: radius 20px; 
+    
+        }
+        img.e{
+       
+            position: absolute;
+            width: 34px;
+            height: 35px;
+            margin-left:465%;
+            margin-top: 179%;
+            border: radius 20px; 
+    
+        }
+        img.f{
+       
+            position: absolute;
+            width: 30px;
+            height: 30px;
+            margin-left:490%;
+            margin-top: 180%;
+            border: radius 20px; 
+    
+        }
+
+    
+
+       
